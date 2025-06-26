@@ -76,7 +76,7 @@
 
 ---
 
-## 🔗 How to Use
+## 🔗How to Use
 
 1. Download the `.pbix` file from this repository
 2. Open it using **Microsoft Power BI Desktop**
