@@ -83,5 +83,9 @@
 3. Interact with filters and visuals to explore trends
 
 ---
+## 👤 Author
+
+**Shreesha – Data Analyst Intern**  
+[LinkedIn Profile](https://www.linkedin.com/in/shreesha-poojary85)
 
  
